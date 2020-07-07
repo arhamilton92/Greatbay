@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/arhamilton92/Greatbay#readme",
   "dependencies": {
+    "inquirer": "^7.3.0",
     "mysql": "^2.18.1"
   }
 }
